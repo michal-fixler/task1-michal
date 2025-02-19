@@ -13,6 +13,7 @@
 //ה
 //1
 //מספרים אקראיים
+//שינוי
 //א
 //1
 #define _SRT_SECURE_NO_WARNINGS
