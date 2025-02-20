@@ -1,20 +1,20 @@
-ο»Ώ//ΧΧ•Χ¤Χ¨ΧΧ•Χ¨Χ™Χ ΧΧ§Χ•Χ¦Χ¨Χ™Χ switch,if
-//Χ
+//ΰετψθεψιν ξχεφψιν switch,if
+//ΰ
 //K=4
-//Χ‘
+//α
 //6 -6 0 1
-//Χ’
+//β
 //20
-//Χ“
+//γ
 //
 //222
 //33
 //
-//Χ”
+//δ
 //1
-//ΧΧ΅Χ¤Χ¨Χ™Χ ΧΧ§Χ¨ΧΧ™Χ™Χ
-//Χ©Χ™Χ Χ•Χ™
-//Χ
+//ξρτψιν ΰχψΰιιν
+//ωιπει ξρτψ 3
+//ΰ
 //1
 #define _SRT_SECURE_NO_WARNINGS
 #include <stdio.h>
@@ -116,22 +116,22 @@ int main()
     }
     printf("%d\n", num);
 }
-//Χ‘
-//num=rand()%5+2;   Χ‘Χ™Χ 2 Χ 6 
-//num=rand()%6+4;   Χ‘Χ™Χ 4 Χ 9
-//num=rand()%10-6;  Χ‘Χ™Χ -6 Χ 3
-//num=rand()%6*10;  Χ‘Χ™Χ 0 Χ 50
-//num=rand()%100/4; Χ‘Χ™Χ 0 Χ-24 
-//Χ¤Χ•Χ Χ§Χ¦Χ™Χ•Χª
-//Χ”Χ¤ΧΧ Χ©Χ Χ”ΧΧΆΧ§Χ‘
+//α
+//num=rand()%5+2;   αιο 2 μ 6 
+//num=rand()%6+4;   αιο 4 μ 9
+//num=rand()%10-6;  αιο -6 μ 3
+//num=rand()%6*10;  αιο 0 μ 50
+//num=rand()%100/4; αιο 0 μ-24 
+//τεπχφιεϊ
+//δτμθ ωμ δξςχα
 //a= 7 b= 8 c= 9 x= 8 y= 2 z= 0 
 //a= 9 b= 3 c= 7 x= 7 y= 4 z= 6 
 //a= 7 b= 3 c= 7 x= 7 y= 4 z= 6 
 //a= 2 b= 5 c= 4 x= 8 y= 5 z= 6 
 //a= 4 b= 6 c= 2 x= 2 y= 7 z= 1 
 //a= 2 b= 6 c= 2 x= 2 y= 7 z= 1
-//Χ¤Χ•Χ Χ§Χ¦Χ™Χ•Χª ΧΧΆΧ¨Χ›Χ™Χ Χ•ΧΧΧ¨Χ™Χ¦Χ•Χª
-//Χ
+//τεπχφιεϊ ξςψλιν εξθψιφεϊ
+//ΰ
 //#include <stdbool.h>
 #include <stdio.h>
 enum boolean { false, true };
@@ -171,7 +171,7 @@ int longs(int arr[], int len)
 	}
 	return maxmikum;
 }
-//Χ‘
+//α
 #include <stdio.h>
 #include <stdlib.h>
 #define _SRT_SECURE_NO_WARNINGS
@@ -228,7 +228,7 @@ int main()
 	return 0;
 }
 
-//Χ’
+//β
 #define _SRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #define N 3
