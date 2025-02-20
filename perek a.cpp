@@ -26,6 +26,7 @@ int main()
     srand(time(0)); 
     int num = rand() % 201; 
     printf("%d\n",num);
+    int num=7;
 
 }
 //2
